@@ -1,2 +1,2 @@
 # git-gud
-## Thijsieee de Rechter
+Thijsieee de Rechter
