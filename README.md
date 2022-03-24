@@ -1,3 +1,2 @@
 # git-gud
-
-## i gitted good
+## Thijsieee de Rechter
