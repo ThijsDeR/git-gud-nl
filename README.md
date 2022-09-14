@@ -1,2 +1,2 @@
 # git-gud
-Thijs
+other
