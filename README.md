@@ -1,5 +1,2 @@
-teas
-asdf
-sdfsda
-f
-s
+# git-gud
+otherfdasfs
